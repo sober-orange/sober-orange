@@ -12,6 +12,21 @@
 <!-- <a href="https://weibo.com/u/1783322543" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Zhihu_logo.svg" alt="图像的替代文本-知乎" height="5%" width="5%"></a>
 <a href="https://weibo.com/u/1783322543" rel="nofollow"><img src="https://logotyp.us/files/sina-weibo.svg" alt="图像的替代文本-微博" height="5%" width="5%"></a> -->
 
+
+
+<a href="https://www.zhihu.com/people/youngteal"><img src="https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=merko/&hide_border=true" style="max-width:100%;" width="43.5%"></a>
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=radical) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=merko) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=tokyonight) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=cobalt) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=highcontrast) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=dracula) -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=tokyonight&bg_color="white") -->
+<!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=radical/) -->
+
+
+
+
 - 👋 我是冷淡
 - 👀 我的研究方向是计算机视觉及深度学习
 - 🌱 我正在学习立体视觉
