@@ -26,7 +26,7 @@
 <!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=radical/) -->
 
 
-[![sober-orange's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sober-orange)](https://github.com/sober-orange/sober-orange)
+[![sober-orange's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sober_orange)](https://github.com/sober-orange/sober-orange)
 
 <a href="https://github.com/sober-orange/sober-orange">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sober-orange&repo=sober-orange" />
