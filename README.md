@@ -19,7 +19,7 @@
 
 <!-- --------------------------------------------------------------------------统计数据样式------------------------------------------------------------------------------------->
 
-<a href="https://github.com/sober-orange"><img src="https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&hide_border=true" style="max-width:100%;" width="43.5%"></a>
+<a href="https://github.com/sober-orange"><img src="https://github-readme-stats-sober-orange.vercel.app/api?username=sober-orange&show_icons=true&hide_border=true" style="max-width:100%;" width="43.5%"></a>
 <!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=radical) -->
 <!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=merko) -->
 <!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=tokyonight) -->
@@ -30,10 +30,10 @@
 <!-- ![sober-orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=sober-orange&show_icons=true&theme=radical/) -->
 
 
-[![sober-orange's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sober_orange)](https://github.com/sober-orange/sober-orange)
+[![sober-orange's wakatime stats](https://github-readme-stats-sober-orange.vercel.app/api/wakatime?username=sober_orange)](https://github-readme-stats-sober-orange.vercel.app/)
 
 <a href="https://github.com/sober-orange/sober-orange">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sober-orange&repo=sober-orange" />
+  <img align="center" src="https://github-readme-stats-sober-orange.vercel.app/api/pin/?username=sober-orange&repo=sober-orange" />
 </a>
 <a href="https://github.com/sober-orange/sober-orange">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sober-orange&repo=sober-orange" />
@@ -41,10 +41,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sober-orange)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sober_orange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sober-orange.vercel.app/api/top-langs/?username=sober-orange)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-theta-ivory.vercel.app/api/wakatime?username=sober_orange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sober-orange)](https://github.com/sober-orange/sober-orange)
+[![Top Langs](https://github-readme-stats-theta-ivory.vercel.app/api/top-langs/?username=sober-orange)](https://github.com/sober-orange/sober-orange)
 
 
 
